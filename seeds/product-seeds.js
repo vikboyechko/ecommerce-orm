@@ -1,3 +1,5 @@
+// seeds for the product table
+
 const { Product } = require('../models');
 
 const productData = [

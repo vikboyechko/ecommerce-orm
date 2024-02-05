@@ -1,3 +1,5 @@
+// Run all of the seed files with a single 'npm run seeds' command.
+
 const seedCategories = require('./category-seeds');
 const seedProducts = require('./product-seeds');
 const seedTags = require('./tag-seeds');

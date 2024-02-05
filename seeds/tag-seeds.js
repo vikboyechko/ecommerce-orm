@@ -1,3 +1,5 @@
+// seeds for the tag table
+
 const { Tag } = require('../models');
 
 const tagData = [
