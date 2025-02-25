@@ -19,7 +19,3 @@ Now run 'npm start' to get the server going. Be sure to check the routes/api/ fo
 Here's a screenshot of Insomnia, showing all of the route requests:
 
 ![Insomnia screenshot of route requests](./route-requests-screenshot.jpg)
-
-## Video Demo
-
-[Watch this video demonstration of the app backend](https://youtu.be/7oZz-Emxls4)
